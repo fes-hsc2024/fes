@@ -1,0 +1,18 @@
+#opv-wrap {
+    display: none;
+  }
+  
+  video#opv {
+    position: fixed;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    vertical-align: bottom;
+  }
+  
+  main {
+    display: none;
+  }
+  
